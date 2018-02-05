@@ -1,7 +1,7 @@
 '''
 功能:提取图片前缀名
-     imgjpg        train.txt
-    200004.jpg ->   200004
+     imgjpg       train.txt
+    200004.jpg -> 200004
 
 '''
 

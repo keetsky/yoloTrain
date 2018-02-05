@@ -1,0 +1,1 @@
+ubuntu 可参考labelImage github安装教程

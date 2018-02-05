@@ -1,3 +1,10 @@
+/****
+将视频的时间序列保存为图片序列
+  video              imgjpg     
+saobin.mp4  ->     2000000.jpg
+                   2000001.jpg
+                      ... 
+*/
 
 #include <cv.h>  
 #include <highgui.h>  
